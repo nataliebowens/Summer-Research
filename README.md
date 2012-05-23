@@ -1,4 +1,3 @@
-Summer-Research
-===============
+IGNORE!!!!
 
-1D code on iPython
+I don't know how to delete repositories yet.... 
